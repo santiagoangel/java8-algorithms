@@ -1,4 +1,4 @@
-java8-algorithms: common algorithms implemented in java 8 with example Application Using Multiple HTML5, Mobile & JAX-RS Technologies 
+Java8-algorithms: common algorithms implemented in java 8 with example application using multiple HTML5, mobile & JAX-RS technologies 
 =========================================================================================================
 Based on https://github.com/wildfly/wildfly-quickstart by Jay Balunas
 
